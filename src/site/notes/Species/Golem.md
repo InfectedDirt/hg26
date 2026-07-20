@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/golem/","tags":["species","homunculus"],"dg-note-properties":{"tags":["species","homunculus"]}}
+{"dg-publish":true,"permalink":"/species/golem/","tags":["species","homunculus"],"updated":"2026-07-20T17:39:49.394+02:00","dg-note-properties":{"tags":["species","homunculus"]}}
 ---
 
 A **Golem** is a [[Species/Homunculus\|homunculus]] made of soil, mud, or sometimes rocks. Their core is usually a piece of paper or something of the like, with instructions on it.  

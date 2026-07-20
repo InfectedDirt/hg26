@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/gnome/","tags":["species","homunculus","not_playable"],"dg-note-properties":{"tags":["species","homunculus","not_playable"]}}
+{"dg-publish":true,"permalink":"/species/gnome/","tags":["species","homunculus","not_playable"],"updated":"2026-07-20T17:37:35.230+02:00","dg-note-properties":{"tags":["species","homunculus","not_playable"]}}
 ---
 
 A **Gnome** is, allegedly, a [[Species/Homunculus\|homunculus]], and is known for being a household nuisance.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/dwarf/","tags":["species","homunculus"],"dg-note-properties":{"tags":["species","homunculus"]}}
+{"dg-publish":true,"permalink":"/species/dwarf/","tags":["species","homunculus"],"updated":"2026-07-20T17:35:22.558+02:00","dg-note-properties":{"tags":["species","homunculus"]}}
 ---
 
 A **Dwarf** is a [[Species/Homunculus\|Homunculus]] created out of stone and brought to life. What is unique about them is that unlike most homunculi, they do have a soul, though they still do not have a spirit, or at least not a spirit in a way comprehensible to humans.

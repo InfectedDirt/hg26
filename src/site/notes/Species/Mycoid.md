@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/mycoid/","tags":["altered_human","species"],"dg-note-properties":{"tags":["altered_human","species"]}}
+{"dg-publish":true,"permalink":"/species/mycoid/","tags":["altered_human","species"],"updated":"2026-07-20T17:29:55.725+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
 ---
 
 
@@ -12,7 +12,7 @@ Through the fungus, Mycoids can connect to mycelium to communicate with vast str
 
 Mycoids can regenerate as long as the fungus is alive, the host body is somewhat intact, and the fungus has access to the needed nutrients. This even works against poisons and some illnesses.
 
-As for Pathways, being a Mycoid does not mean that you have a [[Pathway\|Pathway]] from birth. That is determined by your species. However, the fungus does have a Pathway due to being Altered. The fungus and the host can also have separate [[Geas\|Geasa]]. 
+As for Pathways, being a Mycoid does not mean that you have a [[Magic/Pathway\|Pathway]] from birth. That is determined by your species. However, the fungus does have a Pathway due to being Altered. The fungus and the host can also have separate [[Magic/Geas\|Geasa]]. 
 
 Mycoids live in tribes in forests, away from humans. In return for protecting the forest, it gives them nutrients. They do not practice agriculture at all, and their tools are made out of wood, resin, animal bones, and stone.
 
