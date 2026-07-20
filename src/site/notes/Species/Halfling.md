@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/halfling/","tags":["species","altered_human"],"dg-note-properties":{"tags":["species","altered_human"]}}
+{"dg-publish":true,"permalink":"/species/halfling/","tags":["species","altered_human"],"dg-note-properties":{"tags":["species","altered_human"],"aliases":["Halflings","Hobbit","Hobbits"]}}
 ---
 
 

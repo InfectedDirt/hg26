@@ -10,5 +10,5 @@ An **Altered Human** is a human with a [[Pathway Geas\|Pathway Geas]] that chang
 * [[Species/Halfling\|Halfling]]
 * [[Species/Mycoid\|Mycoid]]
 * [[Ogre\|Ogre]]
-* [[Soullinked\|Soullinked]]
+* [[Species/Soullinked\|Soullinked]]
 * [[Warforged\|Warforged]]
