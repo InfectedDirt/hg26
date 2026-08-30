@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/homunculus/","tags":["species","homunculus"],"updated":"2026-07-20T17:33:18.403+02:00","dg-note-properties":{"tags":["species","homunculus"]}}
+{"dg-publish":true,"permalink":"/species/homunculus/","tags":["species","homunculus"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["species","homunculus"]}}
 ---
 
 

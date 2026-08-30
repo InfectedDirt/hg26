@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/changeling/","tags":["altered_human","species"],"updated":"2026-07-20T17:53:01.630+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
+{"dg-publish":true,"permalink":"/species/changeling/","tags":["altered_human","species"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
 ---
 
 A **Changeling** is an [[Species/Altered Human\|altered human]] that can change their physical form at will to any humanoid shape. Their form can be any species of altered human, and though they do not gain the species [[Magic/Geas\|Geas]] of that species, their form is actually physically real and functioning. This means a changeling never needs glasses, never needs to lose weight, and never gets scars.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/soullinked/","tags":["altered_human","species"],"updated":"2026-07-20T18:04:23.929+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
+{"dg-publish":true,"permalink":"/species/soullinked/","tags":["altered_human","species"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
 ---
 
 A **Soullinked** human is a human that is telepathically linked to another human. 

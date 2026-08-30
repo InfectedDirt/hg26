@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/mycoid/","tags":["altered_human","species"],"updated":"2026-07-20T17:29:55.725+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
+{"dg-publish":true,"permalink":"/species/mycoid/","tags":["altered_human","species"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
 ---
 
 
@@ -16,4 +16,4 @@ As for Pathways, being a Mycoid does not mean that you have a [[Magic/Pathway\|P
 
 Mycoids live in tribes in forests, away from humans. In return for protecting the forest, it gives them nutrients. They do not practice agriculture at all, and their tools are made out of wood, resin, animal bones, and stone.
 
-Of course, Mycoids also live amongst humans, but the [[Empire of the Living\|Empire]] requires them to register themselves as a Mycoid to prevent uncontrolled spreading. They have a strictly controlled birth limit. Unlawful Mycoid children are banished together with their parents.
+Of course, Mycoids also live amongst humans, but the [[Empire/Empire of the Living\|Empire]] requires them to register themselves as a Mycoid to prevent uncontrolled spreading. They have a strictly controlled birth limit. Unlawful Mycoid children are banished together with their parents.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/altered-human/","tags":["altered_human"],"updated":"2026-07-20T18:03:03.391+02:00","dg-note-properties":{"tags":["altered_human"]}}
+{"dg-publish":true,"permalink":"/species/altered-human/","tags":["altered_human","species"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["altered_human","species"]}}
 ---
 
 
@@ -12,4 +12,4 @@ An **Altered Human** is a human with a [[Magic/Geas#Pathway Geasa\|Pathway Geas]
 * [[Species/Mycoid\|Mycoid]]
 * [[Ogre\|Ogre]]
 * [[Species/Soullinked\|Soullinked]]
-* [[Warforged\|Warforged]]
+* [[Species/Warforged\|Warforged]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/elf/","tags":["species","altered_human"],"updated":"2026-07-20T18:03:37.408+02:00","dg-note-properties":{"tags":["species","altered_human"],"aliases":["Elves"]}}
+{"dg-publish":true,"permalink":"/species/elf/","tags":["species","altered_human"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["species","altered_human"],"aliases":["Elves"]}}
 ---
 
 An **Elf** is an [[Species/Altered Human\|altered human]] with an incredibly long lifespan.

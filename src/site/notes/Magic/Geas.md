@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic/geas/","tags":["magic"],"updated":"2026-07-20T18:08:54.801+02:00","dg-note-properties":{"tags":["magic"]}}
+{"dg-publish":true,"permalink":"/magic/geas/","tags":["magic"],"updated":"2026-08-30T19:21:58.599+02:00","dg-note-properties":{"tags":["magic"]}}
 ---
 
 A **Geas** *(pronounced “Geash” or “Geish”,plur. Geasa)* is a sort of trade with the Weave. 
@@ -16,7 +16,7 @@ The consequence of breaking a Geas is usually [[Dissolution\|Dissolution]] into 
 
 *Example 2: Pete who vowed to always accept what he is handed, upon refusing a beer violently erupts into purple flames and is never seen again, to the horror of his drinking mates.*
 
-There are broadly speaking three categories of Geasa: [[Magic/Geas#Personal Geasa\|Personal Geasa]], [[Magic/Geas#Pathway Geasa\|Pathway Geas]], and [[Magic/Geas#Exchange Geasa\|Exchange Geasa]].  
+There are broadly speaking three categories of Geasa: [[Magic/Geas#Personal Geasa\|Personal Geasa]], [[Magic/Geas#Pathway Geasa\|Pathway Geasa]], and [[Magic/Geas#Exchange Geasa\|Exchange Geasa]].  
 Personal Geasa are bound to a single person, while Pathway Geasa are bound to a Pathway and all of its members. 
 
 #### Pathway Geasa

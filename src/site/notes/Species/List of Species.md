@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species/list-of-species/","updated":"2026-07-20T17:47:15.004+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/species/list-of-species/","tags":["species","list"],"updated":"2026-08-30T19:47:56.787+02:00","dg-note-properties":{"tags":["species","list"]}}
 ---
 
 
@@ -8,7 +8,7 @@
 	* [[Species/Elf\|Elf]]
 	* [[Species/Halfling\|Halfling]]
 	* [[Species/Soullinked\|Soullinked]]
-	* [[Warforged\|Warforged]]
+	* [[Species/Warforged\|Warforged]]
 	* [[Species/Mycoid\|Mycoid]]
 	* [[Ogre\|Ogre]]
 * [[Species/Homunculus\|Homunculus]]
@@ -18,3 +18,4 @@
 * [[Extraplanar Creature\|Extraplanar Creature]]
 	* [[Kobold\|Kobold]]
 	* [[Goblin\|Goblin]]
+* [[Species/Kargs\|Kargs]]
